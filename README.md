@@ -12,3 +12,5 @@ Donate to the campaigns that are currently running.
 ## Dependencies
 
 The app currently supports transactions with phantom wallet. All the users should install phantom wallet extension in their browser, and are expected to have their account logged into the phantom wallet.
+
+### Website: https://crowdefi.netlify.app/
